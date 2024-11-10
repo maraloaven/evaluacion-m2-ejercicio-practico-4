@@ -48,7 +48,7 @@ Se implementaron en diversas secciones del proyecto para hacer que los elementos
 La estructura de los archivos SASS y del proyecto en general está organizada de la siguiente manera para promover la reutilización y facilitar el mantenimiento:
 
 
-        /HospitalAkilar
+        /evaluacion-m2-ejercicio-practico-4
         │
         ├── index.html                
         ├── equipo-medico.html         
