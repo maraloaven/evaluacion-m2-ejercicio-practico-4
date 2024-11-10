@@ -1,7 +1,7 @@
-@import "../node_modules/bootstrap/scss/bootstrap";
+@import 'vendor/custom_bootstrap';
 @import 'abstracts/variables-mixins';
 @import 'base/base';
 @import 'layout/header-footer';
 @import 'components/navbar';
 @import 'pages/home';
-@import 'utils/helpers';
+@import 'themes/helpers';
